@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{kawtar-Zinoun}/count.svg)
 [![Github](https://img.shields.io/github/followers/kawtar-Zinoun?label=Follow&style=social)](https://github.com/kawtar-Zinoun)
 
 <div size='20px'> Hi! My name is Kawtar. Thank You for taking the time to view my GitHub Profile :smile: 
