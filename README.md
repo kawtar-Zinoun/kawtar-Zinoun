@@ -15,9 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
- 🌱 I’m currently learning NodeJs and MongoDb
+ 🌱 I’m currently learning **NodeJs and MongoDb**
   
- 💬 Ask me about React Native, Sql
+ 💬 Ask me about **React Native**
   
 
 <br>
