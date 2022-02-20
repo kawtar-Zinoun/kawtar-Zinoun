@@ -17,7 +17,7 @@
   
  🌱 I’m currently learning **NodeJs and MongoDb**
   
- 💬 Ask me about **React Native**
+ 💬 Ask me about **React, React Native, C#**
   
 
 <br>
